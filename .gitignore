@@ -1,0 +1,53 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# Logs
+*.log
+*.tlog
+*.vspscc
+*.scc
+*.log.json
+
+# Test results
+TestResult*/
+*.VisualState.xml
+*.coverage
+*.coveragexml
+
+# NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+artifacts/
+packages/
+
+# DotNet tools
+.dotnet-tools/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# MacOS
+.DS_Store
+
+# Node (if you ever add frontend bits)
+node_modules/
+
+# Secrets
+secrets.json
+*.secret.json
+appsettings.*.local.json
